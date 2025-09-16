@@ -1,6 +1,8 @@
-# EX02: Control-of-Relay-Using-IoT-controller
+
 # NAME:R.Trisha
 # REGISTER NO:212224100061
+
+# EX02: Control of Relay Using IoT controller
 ##  AIM:
 To control the Relay using Arduino controller
 
