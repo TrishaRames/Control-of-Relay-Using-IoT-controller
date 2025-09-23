@@ -54,12 +54,12 @@ delay(1000);
 
 ```
 ## CIRCUIT DIAGRAM:
-<img width="399" height="279" alt="Screenshot 2025-09-16 111835" src="https://github.com/user-attachments/assets/e8d2c6d9-8e98-4d34-a9f1-8be30698ef97" />
+<img width="1200" height="836" alt="image" src="https://github.com/user-attachments/assets/b72590a8-bc9b-49d7-b25c-0d0790bb8da3" />
 
 ## OUTPUT:
 OFF
+<img width="1351" height="965" alt="Screenshot 2025-09-23 114140" src="https://github.com/user-attachments/assets/f4576b1f-8f8c-4d94-9e49-d2d21ef99dc2" />
 
-<img width="798" height="456" alt="Screenshot 2025-09-16 112543" src="https://github.com/user-attachments/assets/a14b2e4e-e1ae-4f02-bb03-1f6db3c67c96" />
 
 
 ON
